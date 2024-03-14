@@ -31,15 +31,13 @@
 //     return $soma;
 // }
 
-// echo somaCompleta(1,2,3,4,5);
+// echo somaCompleta(10,20,30,40,50);
 
 // $array = [6, 7, 9];
 // echo '<br>' . somaCompleta(...$array);
 
 
 // 4º EXEMPLO COMPLEXO :)
-
-
 function jogadores($Titular, ...$EsquentaBanco) {
     echo "Titular: $Titular <br>";
     if($EsquentaBanco) {
@@ -50,4 +48,4 @@ function jogadores($Titular, ...$EsquentaBanco) {
 }
 
 echo '<br>';
-jogadores("Fernando js 22", "Peba 01" ,"ciel 01");
+jogadores("Fernando js 22","peba 01" ,"ciel 01");

@@ -38,6 +38,16 @@
                             Argumento & Variaveis
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=funcoes&file=arg_padrao">
+                            Argumento Padrão
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=funcoes&file=decla_tipos">
+                            Declarando Tipos
+                        </a>
+                    </li>
                 </ul>
             </div>
 
