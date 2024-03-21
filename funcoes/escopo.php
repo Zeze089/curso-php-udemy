@@ -46,6 +46,8 @@ echo"<br>";
 var_dump(trocaValorDeVerdade());
 
 
+
+
 echo"<br>";
 
 $a = 10;

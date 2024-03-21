@@ -48,6 +48,11 @@
                             Declarando Tipos
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=funcoes&file=fun_anonima">
+                            Função Anônimas
+                        </a>
+                    </li>
                 </ul>
             </div>
 
