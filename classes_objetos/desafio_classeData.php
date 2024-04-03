@@ -21,6 +21,12 @@ $c2->Mês = '01';
 $c2->Ano = '1970';
 $c2->apresentar();
 
+$c3 = new data();
+$c3->Dia = '09';
+$c3->Mês = '07';
+$c3->Ano = '2004';
+$c3->apresentar();
+
 
 
 
